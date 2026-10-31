@@ -1,0 +1,239 @@
+{
+"date": "2026-10-31",
+"title": "Saturday Plan · Oct 31, 2026 (Halloween)",
+"weather": "Bountiful, UT (NWS) · Sat: partly sunny, high near 62°F, 30% rain mostly before noon, slight chance of t-storms noon–3 · Sat night low ~48°, rain likely after 3 AM · Sun: soaking rain (100%, ~¾–1\"), high 52° · No freeze in the 7-day forecast",
+"schedule": [
+{
+"time": "8:30 AM",
+"title": "💛 Slow morning with Michelle",
+"detail": "No agenda. This week has been hard for her with her dad's passing, so just be together. Ask if she needs anything for her family",
+"optional": true
+},
+{
+"time": "9:30 AM",
+"title": "Truck: clean out the cab, check wipers and tires",
+"detail": "Skip the wash. Sunday's heavy rain would undo it",
+"optional": true
+},
+{
+"time": "10:15 AM",
+"title": "One errand loop",
+"detail": "Halloween candy, Sunday groceries, bricks at Lowe's, prescription at Dick's Family Pharmacy if it's still waiting",
+"optional": true
+},
+{
+"time": "12:00 PM",
+"title": "Yard: get ready for Sunday's rain (30–45 min)",
+"detail": "Clear gutters, downspouts, and the curb drain. Rake the porch and walk for trick-or-treaters",
+"optional": true
+},
+{
+"time": "1:30 PM",
+"title": "🏈 BYU vs Arizona State",
+"detail": "LaVell Edwards Stadium, Provo · FOX / FOX One · Radio KSL 102.7 FM / 1160 AM, SiriusXM 166"
+},
+{
+"time": "1:45 PM",
+"title": "🏈 Utah at Cincinnati",
+"detail": "Nippert Stadium, Cincinnati · ESPN / ESPN app · Radio ESPN 700 AM / 92.1 FM, SiriusXM 81 · Overlaps BYU, so watch one and listen to the other"
+},
+{
+"time": "3:30 PM",
+"title": "🍽 Dinner with the Missionaries (3:30–5:00)",
+"detail": "From your calendar (no location given). Both games will still be going, so record them or check scores"
+},
+{
+"time": "5:00 PM",
+"title": "🎃 Porch light on, candy at the door",
+"detail": "Your early dinner is covered by the missionaries. Hand out candy with Michelle, maybe with hot cocoa. Dry evening; rain arrives after 3 AM"
+},
+{
+"time": "6:00 PM",
+"title": "🎬 Optional movie, or stay in with the trick-or-treaters",
+"detail": "Sense and Sensibility (PG) 6:05 PM, Megaplex Legacy Crossing",
+"optional": true
+},
+{
+"time": "Bedtime",
+"title": "⏰ Clocks fall back 1 hour tonight",
+"detail": "Daylight saving time ends at 2 AM Sunday. Sacrament meeting is still at 9:00 AM"
+}
+],
+"todo": [
+{
+"id": "michelle",
+"text": "Time with Michelle and her family",
+"meta": "Offer help with her dad's arrangements. No funeral or viewing details are in email or your calendar yet"
+},
+{
+"id": "candy",
+"text": "Buy Halloween candy for the door",
+"meta": "Trick-or-treat evening"
+},
+{
+"id": "truck-clean",
+"text": "Truck: clean out the cab, check wipers and tire pressure",
+"meta": "Rain coming Sunday and Monday"
+},
+{
+"id": "shopping",
+"text": "Shop for Sunday's slow-cooker pot roast",
+"meta": "List under Sunday"
+},
+{
+"id": "bricks",
+"text": "Pick up bricks at Lowe's",
+"meta": "From your to-do list · truck errand"
+},
+{
+"id": "rx",
+"text": "Pick up prescription at Dick's Family Pharmacy, Bountiful (if not done yet)",
+"meta": "Still on your to-do list"
+},
+{
+"id": "yard",
+"text": "Yard: clear gutters, downspouts, and curb drain; rake wet leaves off the walk",
+"meta": "About 1–1¾\" of rain Sun–Sun night"
+},
+{
+"id": "clocks",
+"text": "Set clocks back 1 hour before bed",
+"meta": "DST ends 2 AM Sun Nov 1"
+},
+{
+"id": "fyi-next",
+"text": "Coming up (FYI)",
+"meta": "Mon Nov 2: Standard Pest Control visit · Sat Nov 7: BYU at Utah 10:00 AM MST (ABC or ESPN), then Olive Garden with Kay & Nan (and Michelle) 3:30 PM"
+}
+],
+"ward": [
+{
+"id": "ward-office",
+"text": "Ready Bishop's office for 5 declarations",
+"meta": "Albertsen 1:00 · Steuart (Brad & Raeone) 1:20 · Mary Stewart 1:40 · Openshaw 2:00 · Nelson 2:20 (on the clerk calendar, not your personal one)"
+},
+{
+"id": "ward-conflict",
+"text": "Resolve Sunday 2:00–2:30 conflict",
+"meta": "Calendar says \"Harley Davidson offices\" 2:30 PM, leave by 2:00, which overlaps Openshaw 2:00 and Nelson 2:20. Decide who covers or move one"
+},
+{
+"id": "ward-lcr",
+"text": "LCR: review 12 pending expenses + new transaction to approve",
+"meta": "Weekly summary and approval notice came Fri Oct 30"
+},
+{
+"id": "ward-stake",
+"text": "Get Bishop Kuehne to approve the September Finance Statement",
+"meta": "For Steve Allred · due Sat Oct 31"
+},
+{
+"id": "ward-rent",
+"text": "Pay or enter Rachel's November rent",
+"meta": "Bishop Kuehne's photo, Oct 25 · due Sat Oct 31"
+},
+{
+"id": "ward-checks",
+"text": "Deliver church finance checks",
+"meta": "On your to-do list"
+},
+{
+"id": "ward-palmer",
+"text": "Confirm the Palmer baptism (Sat Nov 28) is on the building calendar",
+"meta": "From your to-do list"
+},
+{
+"id": "ward-fast",
+"text": "Check whether Nov 1 is fast and testimony meeting",
+"meta": "First Sunday, but the ward email doesn't say. Bring a fast-offering envelope just in case"
+}
+],
+"projects": [
+{
+"id": "proj-proconnect",
+"text": "1. ProConnect renewal + save eSignature templates",
+"meta": "Intuit says save them before the November switch to Intuit Sign. A weekday is fine"
+},
+{
+"id": "proj-sprinklers",
+"text": "2. Book the sprinkler blowout",
+"meta": "No freeze in the 7-day forecast (lows 39–49°), so just get it on the calendar for mid-November"
+},
+{
+"id": "proj-dopl",
+"text": "3. Think over the DOPL CPA license renewals",
+"meta": "Both expire Dec 31. No action needed today, just decide later with retirement in mind"
+}
+],
+"sunday": [
+{
+"time": "9:00 AM",
+"title": "Sacrament Meeting",
+"detail": "Hymns 66, 176, 1038 · Zoom: zoom.us/j/94210960309 · clocks fell back overnight"
+},
+{
+"time": "10:05 AM",
+"title": "Sunday School 10:05–10:30 · Elders 10:35–11:00"
+},
+{
+"time": "1:00 PM",
+"title": "Tithing declarations (A-Frame Chapel, Bishop's Office)",
+"detail": "Albertsen 1:00 · Steuart 1:20 · Mary Stewart 1:40 · Openshaw 2:00 · Nelson 2:20"
+},
+{
+"time": "2:30 PM",
+"title": "Harley Davidson offices",
+"detail": "From your calendar: leave by 2:00 (30-min drive). Conflicts with the 2:00 and 2:20 declarations"
+},
+{
+"time": "5:00 PM",
+"title": "Sunday dinner: slow-cooker pot roast (rainy-day comfort food)",
+"detail": "Shop: 3–4 lb chuck roast · 2 lb baby potatoes · 1 lb carrots · 1 onion · garlic · 2 cups beef broth · onion soup mix or gravy packet · dinner rolls · bagged salad + dressing · easy dessert (brownie mix or ice cream) · Start it before church. Check with Michelle first, since family or friends may be bringing meals this week"
+}
+],
+"movies": [
+{
+"time": "6:05 PM",
+"title": "Sense and Sensibility (2026)",
+"detail": "PG · live-action Jane Austen · 2h11m · also 7:05 PM · Megaplex Legacy Crossing, Centerville"
+},
+{
+"time": "6:00 PM",
+"title": "Everest: The Other Side",
+"detail": "PG-13 · documentary · 1h50m · IMAX · Megaplex Legacy Crossing"
+},
+{
+"time": "6:30 PM",
+"title": "Practical Magic 2",
+"detail": "PG-13 · 1h50m · Megaplex Legacy Crossing (if you didn't see it last week)"
+}
+],
+"community": [
+{
+"time": "10 AM–Noon",
+"title": "BCYC BOO! (free)",
+"detail": "North Canyon Park, 3900 S Bountiful Blvd"
+},
+{
+"time": "10:30 AM",
+"title": "Spooktacular Stuffie Sleepover storytime",
+"detail": "\"The Twig\" temporary library, 85 N Main, Bountiful (for little kids)"
+},
+{
+"time": "4–6 PM",
+"title": "Trick-or-treat on Bountiful Main Street",
+"detail": "Downtown Bountiful"
+},
+{
+"time": "5–7 PM",
+"title": "Lewis Park trunk-or-treat (Church-hosted)",
+"detail": "275 Lewis Park Dr, Bountiful"
+},
+{
+"time": "Until 5 PM",
+"title": "Cross E Ranch Fall Festival, last day",
+"detail": "North Salt Lake · closes early on Halloween"
+}
+],
+"grandkids": []
+}
