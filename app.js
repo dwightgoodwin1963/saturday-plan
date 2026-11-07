@@ -23,4 +23,4 @@ fetch('plan.json?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new 
  // carry unfinished added tasks into next week
  addEventListener('pagehide',()=>localStorage.setItem('satplan-carry',JSON.stringify(S.added.filter(i=>!S.checked[i.id]))));
  document.title=p.title;$('#title').textContent=p.title;$('#wx').textContent=p.weather;render()}).catch(e=>{$('#m').innerHTML='<div class="card">Could not load the plan ('+esc(e.message)+'). <button onclick="location.reload()">Try again</button></div>'});
-if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js?v=202610301811',{scope:'./'}).then(r=>r.update()).catch(()=>{});
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js?v=202611061810',{scope:'./'}).then(r=>r.update()).catch(()=>{});
