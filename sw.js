@@ -1,4 +1,4 @@
-const C='sat-202611061810';const A=['./','index.html','app.js?v=202611061810','manifest.json','icon-192.png'];
+const C='sat-202611131822';const A=['./','index.html','app.js?v=202611131822','manifest.json','icon-192.png'];
 self.addEventListener('install',e=>{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(A)).catch(()=>{}))});
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==location.origin)return;

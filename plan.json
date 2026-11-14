@@ -1,156 +1,187 @@
 {
-"date": "2026-11-07",
-"title": "Saturday Plan · Nov 7, 2026",
-"weather": "Bountiful, UT · Sat: mostly clear and dry, high near 54°F, low near 37°F, almost no rain chance · No freeze in the near forecast · Sunrise ~7:05 AM, sunset ~5:16 PM",
+"date": "2026-11-14",
+"title": "Saturday Plan · Nov 14, 2026",
+"weather": "Bountiful, UT (NWS) · Sat: rain until about 5 PM (100%, ¼–½\"), high near 48°F · Sat night clearing, low ~35° · Sun: mostly sunny, high 55° · Tue: rain turning to rain/snow · Sunrise ~7:12 AM, sunset ~5:10 PM",
 "schedule": [
 {
 "time": "8:30 AM",
-"title": "💛 Slow morning with Michelle",
-"detail": "No agenda. Easy day with the rivalry game early and Olive Garden later",
+"title": "💛 Slow, rainy morning with Michelle",
+"detail": "No agenda. Hot breakfast, check in on how she's doing. Big Noon Kickoff is live from Tucson on FOX from 8 AM if you want it on",
 "optional": true
 },
 {
 "time": "10:00 AM",
-"title": "🏈 No. 9 BYU at No. 3 Utah",
-"detail": "Rice-Eccles Stadium · ABC / espn.com/live / Disney+ · Utah radio ESPN 700 AM / 92.1 FM, SiriusXM 83 · BYU radio KSL 102.7 FM / 1160 AM, SiriusXM 166 · First top-10 clash in series history"
-},
-{
-"time": "1:30 PM",
-"title": "Buffer: truck glance or light errands",
-"detail": "Quick look at tires, wipers, washer fluid. Optional shopping for Sunday dinner",
+"title": "Indoor hour: truck cab tidy + one errand loop",
+"detail": "Rain all day, so skip the wash. Tidy the cab, check wipers and washer fluid, then one trip for Sunday groceries (list under Sunday)",
 "optional": true
 },
 {
-"time": "3:30 PM",
-"title": "🍽 Olive Garden with Kay, Nan, and Michelle (3:30–5:00)",
-"detail": "From your personal calendar (location only \"Olive Garden\"). Closest: West Bountiful, 27 N 500 W, 801-292-5611. Confirm which location with Michelle. Covers your early dinner this week"
+"time": "1:30 PM",
+"title": "🏈 Baylor at BYU",
+"detail": "LaVell Edwards Stadium, Provo · FOX / FOX One · Radio KSL NewsRadio 102.7 FM (pregame 11:30)"
+},
+{
+"time": "5:00 PM",
+"title": "🍽 Early dinner at home with Michelle",
+"detail": "Rainy-night comfort: soup and grilled cheese, or Café Rio takeout. Eat before the Utah kickoff"
+},
+{
+"time": "5:30 PM",
+"title": "🏈 Utah at Arizona",
+"detail": "Casino Del Sol Stadium, Tucson · FOX / FOX One · Radio ESPN 700 AM / 92.1 FM · Utes 9-0. Runs past 6 PM, so pick the game or a movie (and record the other)"
 },
 {
 "time": "6:00 PM",
-"title": "🎬 Optional movie or quiet evening",
-"detail": "Drummer Boy (PG-13) 6:30 · Everest: The Other Side (PG-13) 7:15 · Sense and Sensibility (PG) 7:20 · Megaplex Legacy Crossing, Centerville",
+"title": "🎬 Or: a movie instead of the Utah game",
+"detail": "Ghost Soldier (PG-13) 5:55 · Ebenezer (PG-13) 7:15 · Drummer Boy (PG-13) 7:40 · Megaplex Legacy Crossing, Centerville",
 "optional": true
 }
 ],
 "todo": [
 {
-"id": "olive-confirm",
-"text": "Confirm Olive Garden location with Michelle",
-"meta": "Calendar has no street address"
+"id": "games",
+"text": "BYU 1:30 and Utah 5:30, both on FOX",
+"meta": "Different times, so no overlap. Record Utah if you go to a movie"
 },
 {
-"id": "holy-war",
-"text": "BYU at Utah at 10 AM",
-"meta": "ABC, or radio if you are out"
-},
-{
-"id": "leave-early",
-"text": "Leave with time for a 3:30 dinner",
-"meta": "Kay, Nan, and Michelle"
+"id": "michelle",
+"text": "Time with Michelle",
+"meta": "First holidays without her dad are coming. Ask what she'd like this week"
 },
 {
 "id": "truck",
-"text": "Truck: quick glance at tires, wipers, and washer fluid",
-"meta": "Optional · dry day"
+"text": "Truck: tidy cab, check wipers and washer fluid",
+"meta": "Optional · skip the wash in the rain"
 },
 {
 "id": "shopping",
-"text": "Shop for Sunday's baked chicken dinner",
+"text": "Shop for Sunday's chicken tortilla soup",
 "meta": "List under Sunday"
 },
 {
 "id": "yard",
-"text": "Yard: short rake of leftover leaves off walks and beds?",
-"meta": "Cool and dry today; no freeze near. Optional"
+"text": "Yard: after the rain, peek at gutters and the curb drain",
+"meta": "Low ~35° Sat night, rain/snow Tue. Leave real yard work for sunny Sunday afternoon or Monday"
 },
 {
-"id": "errands",
-"text": "Optional light errands between game and dinner",
-"meta": "Only if something is waiting"
+"id": "adam-plan",
+"text": "Get ready for Adam's Plan kickoff Sunday evening",
+"meta": "You told Bryce you hope to do it Sunday evening; confirm time with Michelle, Bryce and Deeanne"
+},
+{
+"id": "amber",
+"text": "Amber's birthday is Sunday",
+"meta": "Card, text, or call. From your calendar"
 }
 ],
 "ward": [
 {
 "id": "ward-office",
 "text": "Ready Bishop's office for 3 declarations",
-"meta": "Nielson 1:00 · Openshaw 1:20 · Ferguson 1:40 (A-Frame Chapel, Bishop's Office)"
-},
-{
-"id": "ward-dup",
-"text": "Clear the canceled Ferguson duplicate at 1:40",
-"meta": "Canceled entry still sits beside the live invite"
+"meta": "Geurts 1:00 · Anthony Hewlett 1:20 · Waite 1:40 (A-Frame Chapel, Bishop's Office)"
 },
 {
 "id": "ward-lcr",
 "text": "LCR: review 12 pending expenses",
-"meta": "Weekly financial summary arrived Fri Nov 6"
+"meta": "Weekly financial summary arrived Fri Nov 13"
+},
+{
+"id": "ward-nts",
+"text": "New Testament Stories books: watch for the shipment",
+"meta": "One copy per active household with kids 3–11; ask Primary presidency for the list. Church notice Nov 13"
+},
+{
+"id": "ward-mckay",
+"text": "Clear McKay's declined 1:00 slot on Nov 22",
+"meta": "They re-booked 2:40; the declined 1:00 entry is still on the clerk calendar"
+},
+{
+"id": "ward-party",
+"text": "Christmas party A-Frame reservation",
+"meta": "No reply yet from Sister Steenblik to your Nov 8 email. Check with her or the Bishop Sunday"
 }
 ],
 "projects": [
 {
 "id": "proj-sprinklers",
-"text": "1. Book the sprinkler blowout for mid-November",
-"meta": "Still no freeze in the near forecast"
+"text": "1. Get the sprinkler blowout done this week",
+"meta": "Rain/snow Tuesday and first freezing nights are close. Sunny Sunday or Monday is your window to book it"
+},
+{
+"id": "proj-holyland",
+"text": "2. Holy Land trip: passport copies + final payment",
+"meta": "Discovery XA balance due Nov 30. Michelle is on it; just help with passport photo-page copies"
 },
 {
 "id": "proj-proconnect",
-"text": "2. ProConnect renewal and save eSignature templates",
-"meta": "Intuit emailed Nov 6 about 2026 ProConnect; a weekday is fine"
-},
-{
-"id": "proj-dopl",
-"text": "3. Think over the DOPL CPA license renewals",
-"meta": "Both expire Dec 31; decide later with retirement in mind"
+"text": "3. ProConnect renewal and DOPL license decision",
+"meta": "Carryover. A weekday is fine; decide with retirement in mind"
 }
 ],
 "sunday": [
 {
 "time": "9:00 AM",
 "title": "Sacrament Meeting",
-"detail": "Hymns 1001 Come Thou Fount, 181 Jesus of Nazareth, 335 Brightly Beams · Zoom: zoom.us/j/94210960309"
+"detail": "Hymns 280 Welcome, Welcome, Sabbath Morning · 1072 When I Survey the Wondrous Cross · 134 I Believe in Christ · Zoom: zoom.us/j/94210960309"
 },
 {
 "time": "10:05 AM",
-"title": "Sunday School 10:05–10:30 · Elders / RS / YM / YW 10:35–11:00"
+"title": "Sunday School 10:05–10:30 · Elders / RS / YM / YW 10:35–11:00",
+"detail": "Primary 10:05–11:00"
 },
 {
 "time": "1:00 PM",
 "title": "Tithing declarations (A-Frame Chapel, Bishop's Office)",
-"detail": "Nielson 1:00 · Openshaw 1:20 · Ferguson 1:40"
+"detail": "Geurts 1:00 · Anthony Hewlett 1:20 · Waite 1:40"
 },
 {
 "time": "5:00 PM",
-"title": "Sunday dinner: baked chicken",
-"detail": "Shop: 1 whole chicken or 4–6 thighs · potatoes · green beans or broccoli · dinner rolls · bagged salad + dressing · butter · easy dessert (pie or ice cream). Check with Michelle first"
+"title": "Sunday dinner: slow-cooker chicken tortilla soup",
+"detail": "Shop: 1½ lb chicken breasts · 2 cans black beans · 1 can corn · 1 can Rotel · 1 jar salsa · 32 oz chicken broth · taco seasoning · shredded cheese · sour cream · avocados · tortilla chips · cornbread mix · Start it before church; it stretches easily if family comes for the evening · Check with Michelle first"
+},
+{
+"time": "Evening",
+"title": "Adam's Plan kickoff (hoped for)",
+"detail": "Not on the calendar yet. Confirm the time with Michelle and Bryce"
 }
 ],
 "movies": [
 {
-"time": "6:30 PM",
-"title": "Drummer Boy",
-"detail": "PG-13 · musical romance · 2h09m · Megaplex Legacy Crossing, Centerville"
+"time": "5:55 PM",
+"title": "Ghost Soldier",
+"detail": "PG-13 · action thriller, Jim Caviezel · 1h30m · Megaplex Legacy Crossing, Centerville · overlaps Utah game"
 },
 {
 "time": "7:15 PM",
-"title": "Everest: The Other Side",
-"detail": "PG-13 · documentary · 1h50m · Megaplex Legacy Crossing"
+"title": "Ebenezer",
+"detail": "PG-13 · live-action fantasy drama, Johnny Depp & Ian McKellen · 1h56m · also 7:40 · Megaplex Legacy Crossing"
 },
 {
-"time": "7:20 PM",
-"title": "Sense and Sensibility (2026)",
-"detail": "PG · live-action Jane Austen · 2h11m · Megaplex Legacy Crossing"
+"time": "7:40 PM",
+"title": "Drummer Boy",
+"detail": "PG-13 · musical romance · 2h09m · Megaplex Legacy Crossing"
 }
 ],
 "community": [
 {
-"time": "Evening",
-"title": "Quiet night in after Olive Garden",
-"detail": "Best fit after the game and a long dinner"
+"time": "10 AM–8 PM",
+"title": "Crystal Festival (rocks, gems, fossils)",
+"detail": "Davis Conference Center, Layton · free admission · good rainy-day outing"
 },
 {
-"time": "6:30–9 PM",
-"title": "Paint Night: Paint Your Partner (optional)",
-"detail": "Bountiful Art Barn — only if you both want a project night"
+"time": "7:00 PM",
+"title": "Singin' in the Rain musical",
+"detail": "Bountiful High School"
+},
+{
+"time": "7:30 PM",
+"title": "Bountiful Philharmonia Chamber Orchestra concert",
+"detail": "Bountiful · listed on Discover Davis"
+},
+{
+"time": "10 AM–2 PM",
+"title": "Salt Lake Winter Farmers Market opens (indoors)",
+"detail": "The Leonardo, Salt Lake City"
 }
 ],
 "grandkids": []
