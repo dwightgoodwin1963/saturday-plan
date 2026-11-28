@@ -1,140 +1,156 @@
 {
-"date": "2026-11-21",
-"title": "Saturday Plan · Nov 21, 2026",
-"weather": "Bountiful, UT (NWS) · Sat: 20% chance of snow before 11 AM, then mostly sunny, high near 42°F, calm · Sat night: hard freeze, low ~28° · Sun: mostly cloudy, high 47° · Mon: rain/snow chance 50% · Thanksgiving Thu: chance of rain and snow, high 46°",
+"date": "2026-11-28",
+"title": "Saturday Plan · Nov 28, 2026",
+"weather": "Bountiful, UT (NWS) · Tonight: 50% chance of rain after 11 PM, low 44° · Sat: 50% chance of rain before 11 AM, then partly sunny, high near 50°, light wind · Sat night: mostly cloudy, low 34° · Sun: partly sunny, high 54° · Mon: 30% rain chance, high 54°; rain likely Mon night",
 "schedule": [
 {
 "time": "8:30 AM",
-"title": "💛 Easy breakfast with Michelle",
-"detail": "No agenda. Thanksgiving is Thursday, the first without her dad. Ask how she'd like the day to go",
+"title": "💛 Slow breakfast with Michelle",
+"detail": "Rainy morning, no agenda. Thanksgiving was her first holiday without her dad. Just ask how she's doing and how she'd like the weekend to go",
 "optional": true
 },
 {
-"time": "10:00 AM",
-"title": "🏈 BYU at Kansas",
-"detail": "David Booth Kansas Memorial Stadium, Lawrence · ABC · Radio KSL NewsRadio 102.7 FM · No. 10 BYU (8-2) vs Kansas (4-6)"
+"time": "Daytime",
+"title": "📦 Lowe's delivery: DeWALT oscillating multi-tool",
+"detail": "Order #300902331262780574 shows delivery today, left outside. Bring it in out of the rain"
+},
+{
+"time": "11:15 AM",
+"title": "Truck: tire pressure + wipers",
+"detail": "Rain should end by about 11. Check all four tires, wiper blades and washer fluid before winter storms",
+"optional": true
+},
+{
+"time": "12:00 PM",
+"title": "Yard: clear gutters and downspouts",
+"detail": "Leaves are down and rain is likely Monday night. Also see whether the sprinklers ever got blown out",
+"optional": true
+},
+{
+"time": "12:45 PM",
+"title": "Grocery run for Sunday's soup",
+"detail": "Short list under Sunday. Back before kickoff",
+"optional": true
 },
 {
 "time": "1:30 PM",
-"title": "Truck: wash off the road salt + tire pressure",
-"detail": "Sunny and dry after the morning snow chance. Cold drops tire pressure, so check all four and top off washer fluid",
+"title": "🏈 BYU vs Cincinnati",
+"detail": "LaVell Edwards Stadium, Provo · FOX · Radio: BYUradio · BYU (9-2) vs Cincinnati (6-5), last regular-season game. BYU can't reach the Big 12 title game; this one is for bowl/playoff position"
+},
+{
+"time": "5:15 PM",
+"title": "🍽 Quiet early dinner with Michelle",
+"detail": "Hug-Hes American Kitchen, 330 N Marketplace Dr, Centerville: comfort food, near the Megaplex. I couldn't check its Saturday hours, so call ahead. Or order in if she'd rather stay home"
+},
+{
+"time": "6:35 PM",
+"title": "🎬 Movie: Ebenezer (PG-13, 1h56m)",
+"detail": "Megaplex Legacy Crossing · out about 8:30 · It's a Christmas Carol story, so ask Michelle first. For something lighter: Focker-in-Law at 7:00",
 "optional": true
 },
 {
-"time": "2:30 PM",
-"title": "Yard: freeze-proof before tonight's 28°",
-"detail": "Disconnect hoses, cover outdoor faucets, and confirm the sprinklers are blown out",
+"time": "After",
+"title": "🎄 Drive by the Bountiful Main Street lights",
+"detail": "The post office tree was lit Nov 23. An easy, quiet way to see the lights",
 "optional": true
-},
-{
-"time": "3:30 PM",
-"title": "Grocery run for Sunday's pot roast",
-"detail": "List under Sunday. Thanksgiving shopping can wait until midweek",
-"optional": true
-},
-{
-"time": "5:00 PM",
-"title": "🍽 Early dinner out with Michelle",
-"detail": "A sit-down dinner in Centerville (Olive Garden or similar), then a 5:40 movie or home for the Utah game at 7"
-},
-{
-"time": "5:40 PM",
-"title": "🎬 Optional movie: Ghost Soldier (PG-13, 1h30m)",
-"detail": "Megaplex Legacy Crossing, Centerville · out about 7:10, so record the start of the Utah game",
-"optional": true
-},
-{
-"time": "7:00 PM",
-"title": "🏈 Utah at TCU",
-"detail": "Amon G. Carter Stadium, Fort Worth · FOX / FOX One · Radio ESPN 700 AM / 92.1 FM · No. 2 Utah (10-0) vs TCU (5-5)"
 }
 ],
 "todo": [
 {
 "id": "games",
-"text": "BYU 10 AM on ABC, Utah 7 PM on FOX",
-"meta": "No overlap. Record Utah if you catch a movie"
+"text": "BYU 1:30 PM on FOX",
+"meta": "Utah played West Virginia Friday night. Next up: Big 12 Championship vs Texas Tech, Fri Dec 4, 6 PM MT, ABC, AT&T Stadium, Arlington"
 },
 {
 "id": "michelle",
 "text": "Time with Michelle",
-"meta": "First Thanksgiving without her dad is Thursday. Ask what would help"
+"meta": "First holiday season without her dad. Ask how Thanksgiving felt and what would help as Christmas comes"
+},
+{
+"id": "lowes",
+"text": "Bring in the Lowe's delivery",
+"meta": "DeWALT 20V oscillating multi-tool, left outside"
 },
 {
 "id": "truck",
-"text": "Truck: wash off road salt, check tire pressure, washer fluid",
-"meta": "Optional · sunny afternoon"
+"text": "Truck: tire pressure, wipers, washer fluid",
+"meta": "Optional · after the rain clears"
 },
 {
 "id": "yard",
-"text": "Yard: hoses off, faucet covers on, sprinklers blown out?",
-"meta": "Hard freeze Saturday night (~28°). If the blowout never got booked, this is the week"
+"text": "Yard: gutters clear? Sprinklers blown out?",
+"meta": "Mild week (lows 34–44°) with rain Monday night"
 },
 {
 "id": "shopping",
-"text": "Shop for Sunday's pot roast",
+"text": "Shop for Sunday's soup",
 "meta": "List under Sunday"
 },
 {
-"id": "thanksgiving",
-"text": "Thanksgiving: confirm plans with Michelle",
-"meta": "Who's hosting, who's coming, what you're bringing"
+"id": "proptax",
+"text": "Property tax: $4,177.98 comes out Mon Nov 30",
+"meta": "Davis County bill 2026-050610063 is scheduled from the account ending 0420. Make sure the money is there"
 },
 {
-"id": "adam",
-"text": "Adam: check on the RLB Holdings apartment application",
-"meta": "Michelle sent Bryce Beattie the savings proof on Nov 18"
+"id": "eye",
+"text": "Mon 9 AM: eye appointment, Dr. Leishman",
+"meta": "Bountiful (by the VASA). Bring your medical insurance card (COBRA through Anuvi now)"
 }
 ],
 "ward": [
 {
-"id": "ward-check",
-"text": "Cut the check for Hermana Bertha Yanez",
-"meta": "Bishop Kuehne asked for it Sunday · Woods Cross Point S (Ken's Tires) invoice 0200853"
+"id": "ward-thorne",
+"text": "Ready Bishop's office for the Thorne family, 1:00",
+"meta": "Only declaration on the clerk calendar Sunday (A-Frame Chapel). The McKay double booking is settled: MarJean declined 1:00 and they came at 2:40 on Nov 22"
 },
 {
-"id": "ward-office",
-"text": "Ready Bishop's office for declarations",
-"meta": "McKay 1:00 · Robert B Male 1:20 · McKay also shows at 2:40 (A-Frame Chapel, Bishop's Office)"
+"id": "ward-expenses",
+"text": "Review pending expenses in LCR",
+"meta": "Friday's summary: 12 pending, 1 not reviewed, plus a transaction awaiting approval (Nov 24). Cut the Hermana Yanez check if it isn't done"
 },
 {
-"id": "ward-mckay",
-"text": "Fix the McKay double booking",
-"meta": "Both 1:00 and 2:40 are on the clerk calendar. Last week they had re-booked 2:40; confirm which one and clear the other"
+"id": "ward-clean",
+"text": "Block the 2027 deep-cleaning dates",
+"meta": "Bishop Kuehne re-sent Tom Heath's schedule (IMG_0186.png) on Nov 24"
 },
 {
-"id": "ward-audit",
-"text": "Start the membership audit in LCR",
-"meta": "Due Dec 15; Stake Clerk Tom Heath asks for a week early. Watch the short training video first"
+"id": "ward-baptism",
+"text": "Baptism records",
+"meta": "Palmer baptism is Sat at the Stake Center (you gave Kindoo access 6 AM–noon). Phoebe Thompson: still waiting on Nick's consent form"
 },
 {
 "id": "ward-cyt",
-"text": "Children and youth training list",
-"meta": "Leader and Clerk Resources → search \"children and youth training\"; help those members finish it in the next few weeks"
+"text": "Protecting Children and Youth training",
+"meta": "You emailed Avery Nov 24. Check who still needs it"
+},
+{
+"id": "ward-audit",
+"text": "Membership audit in LCR",
+"meta": "Due Dec 15; Tom Heath asks for a week early (about Dec 8)"
 }
 ],
 "projects": [
 {
-"id": "proj-sprinklers",
-"text": "1. Sprinkler blowout, if it's still not done",
-"meta": "Carryover. Hard freeze Saturday night. A call Monday is fine"
-},
-{
-"id": "proj-holyland",
-"text": "2. Holy Land trip: watch for Carol's flight options",
-"meta": "Discovery XA confirmed your payment Nov 16; Carol is working on flights"
+"id": "proj-cpe",
+"text": "1. CPE: plan the 40 hours",
+"meta": "Five weeks left. One free option: Gusto TY26 tax-credits webinar, Wed Dec 2, noon MT. Just put sessions on the calendar"
 },
 {
 "id": "proj-proconnect",
-"text": "3. ProConnect renewal and DOPL license decision",
-"meta": "Carryover. The tax year 2026 ProConnect notice came Nov 20; a weekday is fine"
+"text": "2. ProConnect renewal and DOPL license decision",
+"meta": "Due Dec 31. A weekday is fine"
+},
+{
+"id": "proj-sprinklers",
+"text": "3. Sprinkler blowout, if it's still not done",
+"meta": "Carryover. Above freezing this week. A call Monday is fine"
 }
 ],
 "sunday": [
 {
 "time": "9:00 AM",
 "title": "Sacrament Meeting",
-"detail": "Hymns 94 Come, Ye Thankful People · 1041 O Lord, Who Gave Thy Life for Me · 241 Count Your Blessings · Zoom: zoom.us/j/94210960309"
+"detail": "Hymns 92 For the Beauty of the Earth · 193 I Stand All Amazed · Choir: God's Gracious Love · 219 Because I Have Been Given Much · Zoom: zoom.us/j/94210960309"
 },
 {
 "time": "10:05 AM",
@@ -143,67 +159,72 @@
 },
 {
 "time": "1:00 PM",
-"title": "Tithing declarations (A-Frame Chapel, Bishop's Office)",
-"detail": "McKay 1:00 · Robert B Male 1:20 · McKay 2:40 (double-booked, confirm)"
+"title": "Tithing declaration: Thorne family (A-Frame Chapel, Bishop's Office)",
+"detail": "1:00–1:20 with Bishop Kuehne · Lisa Thorne accepted"
 },
 {
 "time": "5:00 PM",
-"title": "Sunday dinner: slow-cooker pot roast",
-"detail": "Shop: 3 lb chuck roast · 2 lb baby potatoes · 1 lb carrots · 1 onion · 1 pkg onion soup mix · 14 oz beef broth · brown gravy mix · dinner rolls · bagged salad · butter · Start it before church; it's ready when you get home · Check with Michelle first"
+"title": "Sunday dinner: slow-cooker chicken and wild rice soup",
+"detail": "Shop: 1½ lb chicken breasts · 6 oz long-grain & wild rice mix · 1 onion · 3 carrots · 3 celery stalks · 2 cartons (32 oz) chicken broth · 1 cup heavy cream · butter · rolls or crusty bread · bagged salad · Start it before church; stir in the cream when you get home · Check the fridge: leftover turkey can stand in for the chicken · Check with Michelle first"
 }
 ],
 "movies": [
 {
-"time": "5:40 PM",
-"title": "Ghost Soldier",
-"detail": "PG-13 · 1h30m · out about 7:10, best fit with the Utah game · Megaplex Legacy Crossing, Centerville"
-},
-{
-"time": "5:30 PM",
+"time": "6:35 PM",
 "title": "Ebenezer",
-"detail": "PG-13 · 1h55m · also 8:15 · Megaplex Legacy Crossing"
+"detail": "PG-13 · 1h56m · Christmas Carol fantasy · out about 8:30 · best fit after dinner"
 },
 {
-"time": "5:45 PM",
+"time": "7:00 PM",
+"title": "Focker-in-Law",
+"detail": "PG-13 · 1h45m · comedy, new this week · also 8:00"
+},
+{
+"time": "6:15 PM",
 "title": "The Hunger Games: Sunrise on the Reaping",
-"detail": "PG-13 · 2h30m · new this week · also 6:15 (3D), 6:30, 7:15 · Megaplex Legacy Crossing"
+"detail": "PG-13 · 2h38m · also 5:15, 5:45 (3D), 8:25"
 },
 {
-"time": "6:40 PM",
-"title": "Drummer Boy",
-"detail": "PG-13 · 2h09m · Megaplex Legacy Crossing"
-},
-{
-"time": "7:30 PM",
+"time": "7:15 PM",
 "title": "I Play Rocky",
-"detail": "PG-13 · 2h08m · Megaplex Legacy Crossing"
+"detail": "PG-13 · 2h08m · comedy-drama"
+},
+{
+"time": "7:45 PM",
+"title": "Hershey",
+"detail": "PG · 1h50m · romantic drama, new this week · also 5:20"
 }
 ],
 "community": [
 {
-"time": "10 AM–1 PM",
-"title": "CommonSpirit Holy Cross Hospital 50th anniversary",
-"detail": "Western Sports Park · free, family-friendly · Teddy Bear Clinic for kids, free flu shots"
+"time": "10 AM–6 PM",
+"title": "Wheeler Farm Holiday Market",
+"detail": "6351 S. 900 East, Murray · free · 50+ local makers · also Sun 10–3"
 },
 {
-"time": "1:30 PM",
-"title": "Cranksgiving bike ride food drive",
-"detail": "Registration 12:45, ends at Bountiful Elementary"
+"time": "Noon–5 PM",
+"title": "BDAC Winter Art Market",
+"detail": "Bountiful Davis Art Center, 90 N. Main · free · 50 booths of local art and gifts"
 },
 {
-"time": "3 PM & 7 PM",
-"title": "Singin' in the Rain musical",
-"detail": "Bountiful High School Auditorium"
+"time": "4–7 PM",
+"title": "Advent Festival",
+"detail": "First Baptist Church, 1915 S. Orchard Dr., Bountiful · crafts, caroling, dinner provided · family-friendly"
 },
 {
-"time": "7:00 PM",
-"title": "Newsies",
-"detail": "Viewmont High School · $10 adults, $5 students"
+"time": "Any night",
+"title": "Layton Lights Before Christmas",
+"detail": "Layton Commons Park, 465 N. Wasatch Dr. · free · dusk–11 PM through Dec 31"
 },
 {
 "time": "Mon 6 PM",
-"title": "Bountiful Main Street tree lighting",
-"detail": "Bountiful Post Office, 20 S. Main · free · Santa by fire truck, cocoa, choirs"
+"title": "Centerville tree lighting",
+"detail": "Smith Park, 300 N. 100 E. · Santa, free hot chocolate and donuts"
+},
+{
+"time": "Dec 5, 9 AM",
+"title": "Ward Christmas Party",
+"detail": "From Bishop Kuehne's Sunday email"
 }
 ],
 "grandkids": []
